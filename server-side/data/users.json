@@ -1,0 +1,18 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@gmail.com",
+    "password": "12345",
+    "role": "admin",
+    "phoneNumber": "921-998-3918",
+    "address": "99 Elgar Plaza"
+  },
+  {
+    "username": "user",
+    "email": "user@gmail.com",
+    "password": "12345",
+    "role": "user",
+    "phoneNumber": "321-990-3602",
+    "address": "2968 Macpherson Street"
+  }
+]

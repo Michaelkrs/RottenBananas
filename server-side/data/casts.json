@@ -1,0 +1,27 @@
+[
+  {
+    "movieId": 5,
+    "name": "Leonardo DiCaprio",
+    "profilePict": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQo97nXyDcbUsidd1gAPSai3VFstYgzsXdcrjjITgOEZXJJ13olLNBwVQm_qW8Dv0xjsCA91iNCctERycw"
+  },
+  {
+    "movieId": 4,
+    "name": "Christian Bale",
+    "profilePict": "https://flxt.tmsimg.com/assets/12441_v9_bb.jpg"
+  },
+  {
+    "movieId": 1,
+    "name": "Chris Evans",
+    "profilePict": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rottentomatoes.com%2Fcelebrity%2Fchris_evans&psig=AOvVaw3hhp5deBP1f08q-C90jdKJ&ust=1684218847485000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDjtKLa9v4CFQAAAAAdAAAAABAE"
+  },
+  {
+    "movieId": 2,
+    "name": "Mike Myers",
+    "profilePict": "https://m.media-amazon.com/images/M/MV5BMTY0MTM1MTM5Nl5BMl5BanBnXkFtZTcwNzA1OTM3MQ@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "movieId": 3,
+    "name": "Samuel L. Jackson",
+    "profilePict": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-648731684.jpg"
+  }
+]
